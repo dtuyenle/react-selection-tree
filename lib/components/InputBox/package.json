@@ -1,0 +1,5 @@
+{
+	"private": false,
+	"name": "InputBox",
+	"main": "./InputBox.js"
+}
