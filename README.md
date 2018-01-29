@@ -23,8 +23,8 @@
     infinite
     multipleSelect
   />
-
-Technical Chellenge
+```
+### Technical Chellenge
 Initially I used recursion and this was the biggest mistake since js doesnt support tail optimization. When the data becomes too big with many nested level of data. The browser actually will crash.
 
 Solved by:
