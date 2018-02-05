@@ -25,12 +25,12 @@
   />
 ```
 ### Technical Chellenge
-Initially I used recursion and this was the biggest mistake since js doesnt support tail optimization. When the data becomes too big with many nested level of data. The browser actually will crash.
+Initially I used recursion and this was the biggest mistake since js doesnt support tail optimization. When the data becomes too big with many nested level of data. The browser actually will crash. 
 
 Solved by:
--> Instead of using recursion, use iteration.
--> To reference node faster, instead of doing a binary search the entire tree, we use hash map with key as id of the node
--> When update state, instead of creating a new version of the data we use the hashmap to update ( since in js object is referenced not copied )
+-> Instead of using recursion, use iteration. 
+-> To reference node faster, instead of doing a binary search the entire tree, we use hash map with key as id of the node 
+-> When update state, instead of creating a new version of the data we use the hashmap to update ( since in js object is referenced not copied ) 
 
-I know this is against data mutation best practice but for performance we must mutate all the way.
+I know this is against data mutation best practice but for performance we must mutate all the way. 
 
