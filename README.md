@@ -1,13 +1,47 @@
 # react-selection-tree
+efficient fast scalable multiple nested selectable tree with search functionality 
+## Features
+Support infinite scroll only render what in view port.
+Support infinite nested tree
+Support search
+Support multiple select or single select
 
-##### Support infinite scroll only render what in view port.
-##### Support infinite nested tree
-##### Support search
-##### Support multiple select or single select
+## Installation
+Independent library
+`npm install react-selection-tree`
 
+## Usage
+##### Data structure
+```json
+{
+    id: 1,
+    name: 'Location 1',
+    parentId: null,
+    children: {
+        2: {
+            id: 2,
+            parentId: 1,
+            name: 'Location 2',
+            children: {
+                4: {
+                    id: 4,
+                    parentId: 2,
+                    name: 'Location 4',
+                    children: null
+                }
+            }
+        },
+        3: {
+            id: 3,
+            parentId: 1,
+            name: 'Location 3',
+            children: null
+        }
+    }
+}
+```
 
-> Install npm install react-selection-tree
-> import and paste the code below 
+import and paste the code below 
 
 ```javascript
 <ReactSelectionTree
