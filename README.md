@@ -123,6 +123,8 @@ export default App;
 
 ## Options
 
+Please reference https://dtuyenle.github.io/react-selection-tree/ for more details
+
 | Prop        | Type           | Description  |
 | ------------- |:-------------:| -----:|
 | name      |  |  |
