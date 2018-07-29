@@ -62,6 +62,7 @@ class App extends Component {
             showSearch
             showClearAll
             infinite
+            expandable={false}
             multipleSelect
           />
         </Row>
