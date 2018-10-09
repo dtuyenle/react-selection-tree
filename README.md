@@ -11,6 +11,9 @@ A small and independent library which provide easy-to-use efficient fast scalabl
 Independent library, no overhead dependencies needed.
 `npm install react-selection-tree`
 
+Make sure to include this web font into your project
+`https://s3.amazonaws.com/github-dtuyenle/react-selection-tree/style.css`
+
 ## Usage
 ##### Data structure 
 The data must be in the format as below:
