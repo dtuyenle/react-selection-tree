@@ -1,5 +1,6 @@
 # react-selection-tree
 A small and independent library which provide easy-to-use efficient fast scalable multiple nested selectable tree with search functionality.
+Interactive Documentation: `https://dtuyenle.github.io/react-selection-tree/`
 
 ## Features
 + Support infinite scroll only render what in view port.
@@ -10,6 +11,9 @@ A small and independent library which provide easy-to-use efficient fast scalabl
 ## Installation
 Independent library, no overhead dependencies needed.
 `npm install react-selection-tree`
+
+Make sure to include this web font into your project
+`https://s3.amazonaws.com/github-dtuyenle/react-selection-tree/style.css`
 
 ## Usage
 ##### Data structure 
