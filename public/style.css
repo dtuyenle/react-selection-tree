@@ -1,0 +1,472 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?bmot5f');
+  src:  url('fonts/icomoon.eot?bmot5f#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?bmot5f') format('truetype'),
+    url('fonts/icomoon.woff?bmot5f') format('woff'),
+    url('fonts/icomoon.svg?bmot5f#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Clipboard:before {
+  content: "\e97a";
+}
+.icon-FacebookCircle:before {
+  content: "\e97b";
+}
+.icon-GoogleCircle:before {
+  content: "\e97c";
+}
+.icon-NLP:before {
+  content: "\e97d";
+}
+.icon-Pin:before {
+  content: "\e97e";
+}
+.icon-ProviderAlternative:before {
+  content: "\e97f";
+}
+.icon-PSI:before {
+  content: "\e980";
+}
+.icon-Send:before {
+  content: "\e981";
+}
+.icon-TwitterCircle:before {
+  content: "\e982";
+}
+.icon-Pdf:before {
+  content: "\e96e";
+}
+.icon-QuestionCircle .path1:before {
+  content: "\e96f";
+  color: rgb(1, 1, 1);
+}
+.icon-QuestionCircle .path2:before {
+  content: "\e970";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.icon-Stop:before {
+  content: "\e971";
+}
+.icon-StopCircle .path1:before {
+  content: "\e972";
+  color: rgb(1, 1, 1);
+}
+.icon-StopCircle .path2:before {
+  content: "\e973";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.icon-Access:before {
+  content: "\e974";
+}
+.icon-Billing:before {
+  content: "\e975";
+}
+.icon-Care:before {
+  content: "\e976";
+}
+.icon-Clinical:before {
+  content: "\e977";
+}
+.icon-FacilitiesMedical:before {
+  content: "\e978";
+}
+.icon-NonClinical:before {
+  content: "\e979";
+}
+.icon-Bookmark:before {
+  content: "\e968";
+}
+.icon-CloseCircle:before {
+  content: "\e969";
+}
+.icon-Copyright:before {
+  content: "\e96a";
+}
+.icon-ExclamationCircle:before {
+  content: "\e96b";
+}
+.icon-InformationCircle:before {
+  content: "\e96c";
+}
+.icon-Table:before {
+  content: "\e96d";
+}
+.icon-Eye:before {
+  content: "\e967";
+}
+.icon-CheckCircle:before {
+  content: "\e961";
+}
+.icon-ExclamationTriangle:before {
+  content: "\e962";
+}
+.icon-Minus:before {
+  content: "\e963";
+}
+.icon-MinusCircle:before {
+  content: "\e964";
+}
+.icon-PlusCircle:before {
+  content: "\e965";
+}
+.icon-UserPlus:before {
+  content: "\e966";
+}
+.icon-Unlock:before {
+  content: "\e960";
+}
+.icon-Entity:before {
+  content: "\e95a";
+}
+.icon-Flow:before {
+  content: "\e95b";
+}
+.icon-Home:before {
+  content: "\e95c";
+}
+.icon-Location_1:before {
+  content: "\e95d";
+}
+.icon-TypeEntity:before {
+  content: "\e95e";
+}
+.icon-Upload:before {
+  content: "\e95f";
+}
+.icon-yext:before {
+  content: "\e958";
+}
+.icon-Feedback:before {
+  content: "\e959";
+}
+.icon-Add:before {
+  content: "\e900";
+}
+.icon-Avatar:before {
+  content: "\e901";
+}
+.icon-BF-Logo .path1:before {
+  content: "\e902";
+  color: rgb(1, 1, 1);
+}
+.icon-BF-Logo .path2:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-BF-Logo .path3:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-BF-Logo .path4:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-BF-Logo .path5:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-BF-Logo .path6:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(243, 110, 42);
+}
+.icon-BF-Logo .path7:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(243, 110, 42);
+}
+.icon-BF-Logo .path8:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(243, 110, 42);
+}
+.icon-BF-Logo .path9:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(243, 110, 42);
+}
+.icon-BF-Logo .path10:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(243, 110, 42);
+}
+.icon-BF-Logo .path11:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(243, 110, 42);
+}
+.icon-BF-Logo .path12:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(243, 110, 42);
+}
+.icon-BF-Logo .path13:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(243, 110, 42);
+}
+.icon-BF-Logo .path14:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-BF-Logo .path15:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(243, 110, 42);
+}
+.icon-BF-Logo .path16:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-BFSurvey:before {
+  content: "\e912";
+}
+.icon-Bha:before {
+  content: "\e913";
+}
+.icon-Bold:before {
+  content: "\e914";
+}
+.icon-Brm:before {
+  content: "\e915";
+}
+.icon-Bsr:before {
+  content: "\e916";
+}
+.icon-Bullet:before {
+  content: "\e917";
+}
+.icon-Calendar:before {
+  content: "\e918";
+}
+.icon-CenterAlign:before {
+  content: "\e919";
+}
+.icon-Chart:before {
+  content: "\e91a";
+}
+.icon-Chat:before {
+  content: "\e91b";
+}
+.icon-Check:before {
+  content: "\e91c";
+}
+.icon-Circle:before {
+  content: "\e91d";
+}
+.icon-CircleThin:before {
+  content: "\e91e";
+}
+.icon-Close:before {
+  content: "\e91f";
+}
+.icon-Configuration:before {
+  content: "\e920";
+}
+.icon-Copy:before {
+  content: "\e921";
+}
+.icon-Delete:before {
+  content: "\e922";
+}
+.icon-Down:before {
+  content: "\e923";
+}
+.icon-DownAlternative:before {
+  content: "\e924";
+}
+.icon-DownAlternative2:before {
+  content: "\e925";
+}
+.icon-Edit:before {
+  content: "\e926";
+}
+.icon-Email:before {
+  content: "\e927";
+}
+.icon-FontBgColor:before {
+  content: "\e928";
+}
+.icon-FontColor:before {
+  content: "\e929";
+}
+.icon-Hamburger:before {
+  content: "\e92a";
+}
+.icon-History:before {
+  content: "\e92b";
+}
+.icon-Information:before {
+  content: "\e92c";
+}
+.icon-Italic:before {
+  content: "\e92d";
+}
+.icon-Key:before {
+  content: "\e92e";
+}
+.icon-Left:before {
+  content: "\e92f";
+}
+.icon-LeftAlign:before {
+  content: "\e930";
+}
+.icon-LeftAlternative:before {
+  content: "\e931";
+}
+.icon-LeftAlternative2:before {
+  content: "\e932";
+}
+.icon-Location:before {
+  content: "\e933";
+}
+.icon-Log:before {
+  content: "\e934";
+}
+.icon-MobileChannel:before {
+  content: "\e935";
+}
+.icon-Move:before {
+  content: "\e936";
+}
+.icon-Negative:before {
+  content: "\e937";
+}
+.icon-Neutral:before {
+  content: "\e938";
+}
+.icon-Notification:before {
+  content: "\e939";
+}
+.icon-NumberList .path1:before {
+  content: "\e93a";
+  color: ;
+}
+.icon-NumberList .path2:before {
+  content: "\e93b";
+  margin-left: -1em;
+  color: ;
+}
+.icon-NumberList .path3:before {
+  content: "\e93c";
+  margin-left: -1em;
+  color: ;
+}
+.icon-NumberList .path4:before {
+  content: "\e93d";
+  margin-left: -1em;
+  color: ;
+}
+.icon-NumberList .path5:before {
+  content: "\e93e";
+  margin-left: -1em;
+  color: ;
+}
+.icon-NumberList .path6:before {
+  content: "\e93f";
+  margin-left: -1em;
+  color: ;
+}
+.icon-PersonalInvite:before {
+  content: "\e940";
+}
+.icon-Pgts:before {
+  content: "\e941";
+}
+.icon-Positive:before {
+  content: "\e942";
+}
+.icon-Provider:before {
+  content: "\e943";
+}
+.icon-Right:before {
+  content: "\e944";
+}
+.icon-RightAlign:before {
+  content: "\e945";
+}
+.icon-RightAlternative:before {
+  content: "\e946";
+}
+.icon-RightAlternative2:before {
+  content: "\e947";
+}
+.icon-Save:before {
+  content: "\e948";
+}
+.icon-Sc:before {
+  content: "\e949";
+}
+.icon-Search:before {
+  content: "\e94a";
+}
+.icon-Share:before {
+  content: "\e94b";
+}
+.icon-StarBlank:before {
+  content: "\e94c";
+  color: #ffcb3c;
+}
+.icon-StarFull:before {
+  content: "\e94d";
+  color: #ffcb3c;
+}
+.icon-StarHalf:before {
+  content: "\e94e";
+  color: #ffcb3c;
+}
+.icon-StarOneQ:before {
+  content: "\e94f";
+  color: #ffcb3c;
+}
+.icon-StarTwoQ:before {
+  content: "\e950";
+  color: #ffcb3c;
+}
+.icon-Testimonial:before {
+  content: "\e951";
+}
+.icon-TextMessage:before {
+  content: "\e952";
+}
+.icon-Underline:before {
+  content: "\e953";
+}
+.icon-Undo:before {
+  content: "\e954";
+}
+.icon-Up:before {
+  content: "\e955";
+}
+.icon-UpAlternative:before {
+  content: "\e956";
+}
+.icon-UpAlternative2:before {
+  content: "\e957";
+}
